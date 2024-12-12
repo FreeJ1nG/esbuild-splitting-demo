@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "rm -rf dist && vite-node build.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "esbuild": "^0.24.0",
+    "vite-node": "^2.1.8"
+  }
+}
