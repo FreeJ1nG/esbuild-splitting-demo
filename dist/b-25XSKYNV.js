@@ -1,3 +1,5 @@
+import "./chunk-MLKGABMK.js";
+
 // src/pepe/b.ts
 var b_default = "b";
 export {

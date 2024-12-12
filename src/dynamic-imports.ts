@@ -1,7 +1,7 @@
 export default {
-  a: import("./pepe/a.ts"),
-  b: import("./pepe/b.ts"),
-  c: import("./pepe/c.ts"),
-  d: import("./pepe/d.ts"),
-  e: import("./pepe/e.ts"),
+  a: () => import("./what/a.ts"),
+  b: () => import("./what/b.ts"),
+  c: () => import("./what/c.ts"),
+  d: () => import("./what/d.ts"),
+  e: () => import("./what/e.ts"),
 };

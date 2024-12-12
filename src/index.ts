@@ -1,1 +1,1 @@
-export * from "./dynamic-imports.ts";
+export * as dynamicImports from "./dynamic-imports.ts";
